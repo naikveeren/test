@@ -22,5 +22,8 @@ public class TestStr {
 		System.out.println("there are no non repeting chars");
 	}
 	}
+	Student student=new Student("veeren","naik");
+	
+			
 
 }
