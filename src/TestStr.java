@@ -11,6 +11,7 @@ public class TestStr {
 		System.out.println();
 		if(str.indexOf(i)==str.lastIndexOf(i)) {
 		System.out.println("first non-repeting char is::"+i);
+		System.out.println("hii veeru");
 		flag=false;
 		break;
 		}
